@@ -1,0 +1,42 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-menu-button></ion-menu-button>
+    </ion-buttons>
+    <ion-title>Descripcion</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-header collapse="condense">
+    
+  </ion-header>
+  <ion-item lines="none">
+    <h1 slot="start" color="blue">{{titleNew}}</h1>
+    <ion-icon slot="end" (click)="Navigate('/home')" name="play-back-outline"></ion-icon>
+  </ion-item>
+
+
+  <ion-card>
+    <img alt="" src={{urlImg}} />
+    <ion-card-header>
+      <ion-item lines="none">
+        <ion-card-subtitle slot="start">{{dateNew}}</ion-card-subtitle> 
+        <ion-card-subtitle slot="end">{{duracion}}</ion-card-subtitle>
+      </ion-item>
+    </ion-card-header>
+  
+  <ion-item>
+    <p>{{description}}</p>
+
+  </ion-item>
+  <ion-item id="stars" lines="none">
+    <ion-icon *ngFor="let star of stars; let i = index" [name]="isRated(i) ? 'star' : 'star-outline'" slot="start" class="hoverable-icon" (click)="toggleRating(i)" ></ion-icon>
+    <ion-button (click)="clearRatings()" slot="end">Limpiar</ion-button>
+  </ion-item>
+  <ion-item>
+    <ion-icon class="like" name="heart-outline"></ion-icon><ion-icon class="ojo" name="eye-outline"></ion-icon>
+    <ion-icon slot="end" class="adj" name="link-outline"></ion-icon>
+  </ion-item>
+ </ion-card>
+</ion-content>

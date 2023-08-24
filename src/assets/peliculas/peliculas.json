@@ -1,0 +1,155 @@
+[
+    {
+        "peliculas": {
+            "name": "All",
+            "date": "2023-07-30",
+            "show": true,
+            "categories": [
+                {
+                    "name": "Cartelera",
+                    "value": "cartelera"
+                },
+                {
+                    "name": "Pronto",
+                    "value": "pronto"   
+                }
+            ]
+
+        },
+        "detallePelicula": [
+            {
+                "title": "Megalodon 2",
+                "date": "03-ago-2023",
+                "duracion": "116 min",
+                "show": true,
+                "category": "Ciencia Ficción, Secuela, Terror",
+                "description": "Una exploración submarina en las profundidades del océano se convierte en una espiral de caos cuando una malévola operación minera amenaza la misión y obliga al equipo de investigación a librar una arriesgada batalla por la supervivencia",
+                "url_imag": "https://elcomercio.pe/resizer/wd2J9rTXqddqPflcih_VK2_b7ec=/620x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/MEKVCRJSNBGHNOHNDPQM2SYQWE.jpg"
+            },
+            {
+                "title": "Oppenheimer",
+                "duracion": "180 min",
+                "date": "20-Jul-2023",
+                "show": true,
+                "category": "Ciencia Ficción, Secuela, Terror",
+                "description": "Escrita y dirigida por Christopher Nolan, Oppenheimer es un thriller épico que sumerge al público en la trepidante paradoja del enigmático hombre que debe arriesgarse a destruir el mundo para poder salvarlo.",
+                "url_imag": "https://archivos-cms.cinecolombia.com/images/9/6/4/2/42469-2-esl-CO/679a19b51d45-opp_cineco_2-poster_480x670.jpg"
+            },
+            {
+                "title": "La piel del tambor",
+                "date": "10-Ago-2023",
+                "duracion": "121 min",
+                "show": true,
+                "category": "Drama, Thriller",
+                "description": "Un hacker penetra la seguridad del Vaticano y le deja un mensaje apremiante al Papa: En Sevilla una iglesia del siglo XVII, mata para defenderse. El apuesto padre Quart, estrella del Instituto de Asuntos Exteriores, un brazo de la inteligencia del Vaticano, es enviado a investigar. A Quart le aguardan el peligro, la intriga, los dilemas morales y la irresistible duquesa Macarena",
+                "url_imag": "https://www.aceprensa.com/wp-content/uploads/2022/10/la-piel-del-tambor.jpg"
+            },
+            {
+                "title": "El Demonio Entre Nosotros",
+                "date": "10-Ago-2023",
+                "duracion": "102 min",
+                "show": true,
+                "category": "Suspenso, Terror",
+                "description": "El Demonio Entre Nosotros sigue a Margot (Michaela Longden), una joven que sufre una grave pérdida de memoria y que se propone resolver el misterio de la muerte de su hermana Evie, que ocurrió hace veinte años. Al regresar a su casa familiar, una serie de aterradores encuentros con el fantasma de su hermana comienzan a devolverle los recuerdos perdidos. Ayudada por un experimentado investigador paranormal, la desesperación de Margot alcanza su punto álgido cuando tiene motivos para sospechar que Evie fue asesinada en la casa de su infancia. ¿Descubrirá los trágicos sucesos de aquella terrible noche para descubrir al asesino de su hermana? ¿O esta desesperada búsqueda de la verdad costará la vida a todos los implicados?",
+                "url_imag": "https://archivos-cms.cinecolombia.com/images/1/5/9/3/43951-1-esl-CO/bcdb37ade833-poster_480x670.png"
+            },
+            {
+                "title": "Tortugas Ninja",
+                "date": "03-Ago-2023",
+                "duracion": "99 min",
+                "show": true,
+                "category": "Acción, Animación, Aventura",
+                "description": "Después de años de estar protegidos del mundo humano, estos hermanos se propusieron ganarse los corazones de los neoyorquinos y ser aceptados como adolescentes normales realizando actos heroicos. Su nueva amiga April O'Neil les ayudará a enfrentarse a un misterioso sindicato del crimen, pero pronto intentarán desequilibrarlos desatando un ejército de mutantes sobre ellos.",
+                "url_imag": "https://es.web.img3.acsta.net/pictures/23/05/25/12/51/1471399.jpg"
+            },
+            {
+                "title": "El Justiciero 3",
+                "date": "05-Oct-2023",
+                "show": true,
+                "category": "Acción, Thriller",
+                "description": "Desde que dejó atrás su vida como asesino del gobierno,  ha tenido dificultades para reconciliarse con las cosas horribles que ha hecho en el pasado, y encuentra un extraño consuelo en hacer justicia a nombre de los oprimidos.",
+                "url_imag": "https://www.procinal.com/uploads/PELICULAS/Img_movies/Img_360x500/poster-el-justiciero.jpg"
+            },
+            {
+                "title": "Escape Bajo Fuego",
+                "date": "10-Ago-2023",
+                "duracion": "120 min",
+                "show": true,
+                "category": "Acción, Suspenso",
+                "description": "Tom Harris (Gerard Butler) un agente encubierto de la CIA que trabaja en Oriente Medio se verá en peligro a causa de la filtración de su misión encubierta que revelará su verdadera identidad.  Atrapado en pleno territorio enemigo, Harris y su traductor tendrán que abrirse paso en una explosiva persecución a través del desierto para llegar a Kandahar, donde les espera su punto de extracción.",
+                "url_imag": "https://archivos-cms.cinecolombia.com/images/_aliases/exhibition_poster/5/2/1/3/43125-1-esl-CO/544ecc00ef76-kdhr_pstr-dskp_480x670.png"
+            },
+            {
+                "title": "El Libro de los Deseos",
+                "date": "03-Ago-2023",
+                "duracion": "94 min",
+                "show": true,
+                "category": "Drama",
+                "description": "Después de que un trágico accidente deja en coma a su hijo, Thelma decide completar una a una las 10 cosas que hay que hacer antes del fin del mundo que dejó el niño escrito en su diario. Esto con la esperanza de demostrarle todo lo maravilloso que ofrece la vida para que él decida regresar, y de paso reavivar sus propias ganas de vivir.",
+                "url_imag": "https://archivos-cms.cinecolombia.com/images/_aliases/exhibition_poster/7/5/9/1/41957-1-esl-CO/8013515ff92c-2_poster_480x670.png"
+            },
+            {
+                "title": "Elementos",
+                "date": "22-Jun-2023",
+                "duracion": "110 min",
+                "show": true,
+                "category": "Animación, Aventura, Ciencia Ficción, Comedia, Familiar, Fantasia",
+                "description": "ELEMENTOS es la nueva pelicula de Disney y Pixar, ambientado en Elemental City, donde conviven los habitantes del fuego, el agua, la tierra y el aire. La historia nos presenta a Ember, una joven dura, ingeniosa y feroz, cuya amistad con un chico divertido y que se deja llevar por la corriente, llamado Wade, desafía sus creencias sobre el mundo en el que viven.",
+                "url_imag": "https://archivos-cms.cinecolombia.com/images/_aliases/exhibition_poster/1/5/6/1/41651-4-esl-CO/f2ac19001fa7-480x670.png"
+            },
+            {
+                "title": "Caballo de Acero",
+                "date": "10-Ago-2023",
+                "duracion": "108 min",
+                "show": true,
+                "category": "Aventura, Ficción",
+                "description": "La imaginación llevará a “Santa” y “Tolla” por el inmenso mundo del ciclismo y sus grandes carreras en contraste con su realidad. Los dos entrenan a diario para que Santa se convierta en profesional pero los obstáculos crean un dilema consigo mismo generando una duda donde Santa ya no sabe distinguir entre su mundo imaginario y el mundo real. Tendrá que demostrar que sus sueños son tan reales como el amor por su bicicleta.",
+                "url_imag": "https://archivos-cms.cinecolombia.com/images/_aliases/exhibition_poster/4/4/1/4/44144-1-esl-CO/8fe489fae5b0-2.poster-480x670.jpg"
+            },
+            {
+                "title": "La Noche del Demonio",
+                "date": " 06-Jul-2023",
+                "duracion": "107 min",
+                "show": true,
+                "category": "Terror",
+                "description": "En La Noche del Demonio: La Puerta Roja, el reparto original del clásico de terror vuelve para el capítulo final de la saga aterradora de la familia Lambert. Para acabar con sus demonios de una vez por todas, Josh (Patrick Wilson) y un Dalton en edad universidaria (Ty simpkins) deben adentrarse más en el purgatorio que nunca antes, enfrentándose al pasado oscuro de su familia y un conjunto de nuevos y más horripilantes terrores que se esconden detrás de la puerta roja.",
+                "url_imag": "https://archivos-cms.cinecolombia.com/images/_aliases/exhibition_poster/5/9/0/2/42095-6-esl-CO/7d2110f2dda7-ins5-2-poster-preventa.jpg"
+            },
+            {
+                "title": "Gran Turismo",
+                "date": " 24-Ago-2023",
+                "show": true,
+                "category": "Acción, Aventura, Drama",
+                "description": "Basada en la historia real de Jann Mardenborough, la película es la historia definitiva de deseos cumplidos de un jugador adolescente de “Gran Turismo”, cuyas habilidades de gaming le llevaron a ganar una serie de competencias de Nissan, hasta convertirse en un verdadero conductor de carros de carreras profesional.",
+                "url_imag": "https://archivos-cms.cinecolombia.com/images/_aliases/exhibition_poster/7/7/7/2/42777-1-esl-CO/12c5f21ce945-480x670.jpg"
+            },
+            {
+                "title": "Blue Beetle",
+                "date": " 17-Ago-2023",
+                "show": true,
+                "category": "Ciencia Ficción, DC Comics",
+                "description": "Jaime Reyes, recién graduado de la universidad, regresa a casa lleno de aspiraciones para su futuro, solo para descubrir que su hogar no es exactamente como lo dejó. En su búsqueda por encontrar su propósito en el mundo, el destino interviene cuando Jaime se encuentra inesperadamente en posesión de una antigua reliquia de biotecnología alienígena: el escarabajo. Cuando el escarabajo elige repentinamente a Jaime como huésped simbiótico, le otorga una increíble armadura capaz de adquirir poderes extraordinarios e impredecibles, cambiando para siempre su destino al convertirse en el superhéroe BLUE BEETLE",
+                "url_imag": "https://archivos-cms.cinecolombia.com/images/_aliases/exhibition_poster/1/0/4/2/42401-1-esl-CO/34c503a908c5-480x670.jpg"
+                
+            },
+            {
+                "title": "Drácula Mar de sangre",
+                "date": " 24-Ago-2023",
+                "show": true,
+                "category": "Terror",
+                "description": "Basada en un escalofriante capítulo de Drácula, la novela clásica de Bram Stoker. Drácula: Mar de sangre cuenta la aterradora historia del barco mercante Demeter, encargado de transportar una carga privada de 50 cajas de madera sin marcar, de Carpatia a Londres.",
+                "url_imag": "https://archivos-cms.cinecolombia.com/images/_aliases/exhibition_poster/3/6/1/2/42163-1-esl-CO/d0845ebedede-480x670.jpg"
+            },
+            {
+                "title": "Los Super Descendientes",
+                "date": " 17-Ago-2023",
+                "duracion": "76 min",
+                "show": true,
+                "category": "Animación, Familiar",
+                "description": "No hace falta ser un superhéroe para ser súper, ni acrobática ni atlética, Hedvig es seguramente demasiado torpe para ser una superheroína. Para poder seguir los pasos de su padre, Super Lion, acepta el reto de encontrar un super poder en su interior.",
+                "url_imag": "https://archivos-cms.cinecolombia.com/images/_aliases/exhibition_poster/5/9/0/2/42095-6-esl-CO/7d2110f2dda7-ins5-2-poster-preventa.jpg"
+            }        
+        ]             
+
+    }
+]

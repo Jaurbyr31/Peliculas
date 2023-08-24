@@ -1,0 +1,14 @@
+ion-content ion-item div ion-card ion-item span,ion-icon{
+    cursor: pointer;
+}
+
+#starts{
+    margin: 10px;
+    text-align: center;
+}
+
+.hoverable-icon {
+    
+    &:hover { color: aquamarine; }
+  }
+  
